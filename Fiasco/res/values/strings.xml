@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Fiasco</string>
+    <string name="title_playset_detail">Playset Detail</string>
+    <string name="title_playset_list">Playsets</string>
+
+</resources>
